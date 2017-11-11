@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class EleanaControl : MonoBehaviour {
 
+	[SerializeField]
+	private stat health;
+
 	public float moveSpeed = 3f;
 	float velX;
 	float velY;
@@ -26,6 +29,7 @@ public class EleanaControl : MonoBehaviour {
 	{
 		rigBody = GetComponent<Rigidbody2D> ();	
 		anim = GetComponent<Animator>();
+
 
 	}
 	// Update is called once per frame
@@ -54,6 +58,14 @@ public class EleanaControl : MonoBehaviour {
 		{
 			nextFire = Time.time + fireRate;
 			fire();
+		}
+		if(Input.GetKeyDown(KeyCode.Q))
+		{
+			health.CurrentVal -= 10;
+		}
+		if(Input.GetKeyDown(KeyCode.W))
+		{
+			health.CurrentVal += 10;
 		}
 
 	}
