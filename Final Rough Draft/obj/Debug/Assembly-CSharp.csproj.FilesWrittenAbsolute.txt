@@ -1,0 +1,51 @@
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/UnityEngine.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/UnityEditor.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/Facebook.Unity.Settings.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/nunit.framework.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/Mono.Cecil.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/Unity.DataContract.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/romariomendoza/Desktop/Retribution/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/romariomendoza/Desktop/Retribution/obj/Debug/Assembly-CSharp.dll
+/Users/romariomendoza/Desktop/Retribution/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/obj/Debug/Assembly-CSharp.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/UnityEngine.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/UnityEditor.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/nunit.framework.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/Unity.Cecil.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/Unity.DataContract.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/martingil-morales/Desktop/Retribution_LatesVersion copy 12:2:17/Temp/bin/Debug/Assembly-CSharp.dll
