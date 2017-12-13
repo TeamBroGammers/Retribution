@@ -1,0 +1,814 @@
+fileFormatVersion: 2
+guid: 11c5132b55eb54fd1aebde583e4ba239
+timeCreated: 1512629797
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lightsprites_0
+    21300002: lightsprites_1
+    21300004: lightsprites_2
+    21300006: lightsprites_3
+    21300008: lightsprites_4
+    21300010: lightsprites_5
+    21300012: lightsprites_6
+    21300014: lightsprites_7
+    21300016: lightsprites_8
+    21300018: lightsprites_9
+    21300020: lightsprites_10
+    21300022: lightsprites_11
+    21300024: lightsprites_12
+    21300026: lightsprites_13
+    21300028: lightsprites_14
+    21300030: lightsprites_15
+    21300032: lightsprites_16
+    21300034: lightsprites_17
+    21300036: lightsprites_18
+    21300038: lightsprites_19
+    21300040: lightsprites_20
+    21300042: lightsprites_21
+    21300044: lightsprites_22
+    21300046: lightsprites_23
+    21300048: lightsprites_24
+    21300050: lightsprites_25
+    21300052: lightsprites_26
+    21300054: lightsprites_27
+    21300056: lightsprites_28
+    21300058: lightsprites_29
+    21300060: lightsprites_30
+    21300062: lightsprites_31
+    21300064: lightsprites_32
+    21300066: lightsprites_33
+    21300068: lightsprites_34
+    21300070: lightsprites_35
+    21300072: lightsprites_36
+    21300074: lightsprites_37
+    21300076: lightsprites_38
+    21300078: lightsprites_39
+    21300080: lightsprites_40
+    21300082: lightsprites_41
+    21300084: lightsprites_42
+    21300086: lightsprites_43
+    21300088: lightsprites_44
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightsprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 59
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 320
+        width: 62
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 326
+        width: 61
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 328
+        width: 63
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 373.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 373.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 373.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 373.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 373.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 280.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 280.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 280.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 280.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 280.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 280.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 280.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_17
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 280.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 187.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_20
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 187.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 187.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 187.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 187.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 187.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_25
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 187.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_26
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 187.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 94.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_29
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 94.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_30
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 94.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_31
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 94.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_32
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 94.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 94.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_34
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 94.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 94.6
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5999985
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1.5999985
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_38
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1.5999985
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_39
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1.5999985
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_40
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1.5999985
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_41
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1.5999985
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_42
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1.5999985
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_43
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1.5999985
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightsprites_44
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1.5999985
+        width: 59.444443
+        height: 93.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
