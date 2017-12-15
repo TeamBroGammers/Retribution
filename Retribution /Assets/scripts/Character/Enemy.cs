@@ -13,6 +13,7 @@ public class Enemy : Character {
 	private Transform leftEdge;
 	[SerializeField]
 	private Transform rightEdge;
+	AudioSource sound;
 	public bool InMeleeRange
 	{
 		get
@@ -31,6 +32,7 @@ public class Enemy : Character {
 			if (Target != null) 
 			{
 				return Vector2.Distance (transform.position, Target.transform.position) <= ShootRange;
+				sound.Play ();
 			}
 			return false;
 		}
@@ -40,6 +42,7 @@ public class Enemy : Character {
 		base.Start();
 		ChangeState(new IdleState());
 		GetComponent<GameManager> ();
+		sound=GetComponent<AudioSource>();
 	}
 	
 	// Update is called once per frame
@@ -103,6 +106,7 @@ public class Enemy : Character {
 		{
 			//add death animation
 			anim.SetTrigger("IsDead");
+			sound.Play ();
 			Destroy(gameObject,2f);
 			Instantiate (GameManager.Instance.EnergyPrefab, new Vector3 (transform.position.x, transform.position.y + 2), Quaternion.identity);
 			yield return null;

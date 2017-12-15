@@ -1,6 +1,7 @@
 ﻿ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : Character {
 
@@ -25,8 +26,8 @@ public class Player : Character {
 	private bool IsWalking;
 	private bool jump;
 	private bool attack;
-
-
+	public Color loadToColor = Color.black;
+	AudioSource sound;
 	private void Awake()
 	{
 		HealthBar.Initialize ();
@@ -37,6 +38,7 @@ public class Player : Character {
 		
 		base.Start ();
 		myRigidbody=GetComponent<Rigidbody2D>();
+		sound = GetComponent<AudioSource> ();
 	}
 
 	void Update()
@@ -84,7 +86,7 @@ public class Player : Character {
 	}
 	void HandleInput()
 	{
-		if(Input.GetKeyDown(KeyCode.W))
+		if(Input.GetKeyDown(KeyCode.W)||Input.GetKeyDown(KeyCode.UpArrow))
 			{
 			jump = true;
 			}
@@ -95,6 +97,7 @@ public class Player : Character {
 		if (Input.GetKey (KeyCode.Space) && Time.time > nextFire) {
 			nextFire = Time.time + fireRate;
 			fire ();
+			sound.Play ();
 		}
 	}
 	private void Flip(float horizontal)
@@ -134,15 +137,21 @@ public class Player : Character {
 		
 		health -= 10;
 		HealthBar.CurrentVal -= 10;
-		EnergyBar.CurrentVal -= 10;
-		if (!IsDead) {
-			//ADD ANIMATION FOR GETTING HURT	
+		if (!IsDead){
 		}
 		else 
 		{
-			anim.SetTrigger("IsDead");
-			Destroy(gameObject,2f);
-			yield return null;
+			if (Application.loadedLevelName == ("Scene_2")) {
+				Initiate.Fade("Intro exposition",loadToColor,0.4f);	
+
+				//yield return null;
+			} 
+			else {
+				anim.SetTrigger ("IsDead");
+				Destroy (gameObject, 2f);
+				Initiate.Fade("GameOverScene",loadToColor,0.4f);
+				yield return null;
+			}
 		}
 	}
 	public override IEnumerator GetHealth()
@@ -163,7 +172,7 @@ public class Player : Character {
 	}
 	public override IEnumerator GetEnergy()
 	{
-		if (EnergyBar.CurrentVal>0)
+		if (EnergyBar.CurrentVal <EnergyBar.MaxVal)
 		{
 			EnergyBar.CurrentVal +=100;
 		}

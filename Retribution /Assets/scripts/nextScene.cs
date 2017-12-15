@@ -12,14 +12,17 @@ public class nextScene : MonoBehaviour {
 		{
 		SceneManager.LoadScene("Scene_2");
 		}
-		else if (other.tag == "Player" &&  Application.loadedLevelName == ("Scene_2"))
-		{
-			SceneManager.LoadScene("Mission1");
-
-		}
 		else if(other.tag == "Player" &&  Application.loadedLevelName == ("Mission1"))
 		{
-			SceneManager.LoadScene("IntroScene");
+			SceneManager.LoadScene("Mission2");
+		}
+		else if(other.tag == "Player" &&  Application.loadedLevelName == ("Mission2"))
+		{
+			SceneManager.LoadScene("Scene_3");
+		}
+		else if(other.tag == "Player" &&  Application.loadedLevelName == ("Scene_3"))
+		{
+			SceneManager.LoadScene("BossfightScene");
 		}
 	}
 }
